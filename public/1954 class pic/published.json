@@ -1,5 +1,16 @@
 {
   "storymap": {
+    "map_type": "zoomify",
+    "zoomify": {
+      "path": "https://sdu.upei.ca/sites/sdu.upei.ca/files/KnightLabStoryMap/sdu_tiles/SDUClassPhoto_1954/",
+      "width": 10487,
+      "height": 7943,
+      "tolerance": 0.9,
+      "attribution": ""
+    },
+    "map_background_color": "#740902",
+    "font_css": "stock:rufina-sintony",
+    "height": "1200",
     "map_as_image": true,
     "slides": [
       {
@@ -20,7 +31,7 @@
         "date": "",
         "text": {"headline": "John J. Dunphy", "text": ""},
         "media": {
-          "url": "https://sdu.upei.ca/site/sdu.upei.ca/files/KnightLabStoryMap/public/1954 class pic/dunphy-j.jpg",
+          "url": "https://sdu.upei.ca/sites/sdu.upei.ca/files/KnightLabStoryMap/public/1954 class pic/dunphy-j.jpg",
           "credit": "",
           "caption": ""
         },
@@ -37,7 +48,7 @@
         "date": "",
         "text": {"headline": "Leslie Rogerson", "text": ""},
         "media": {
-          "url": "https://sdu.upei.ca/site/sdu.upei.ca/files/KnightLabStoryMap/public/1954 class pic/rogerson-l.jpg",
+          "url": "https://sdu.upei.ca/sites/sdu.upei.ca/files/KnightLabStoryMap/public/1954 class pic/rogerson-l.jpg",
           "credit": "",
           "caption": ""
         },
@@ -54,7 +65,7 @@
         "date": "",
         "text": {"headline": "Leo Clarkin", "text": ""},
         "media": {
-          "url": "https://sdu.upei.ca/site/sdu.upei.ca/files/KnightLabStoryMap/public/1954 class pic/clarkin-l.jpg",
+          "url": "https://sdu.upei.ca/sites/sdu.upei.ca/files/KnightLabStoryMap/public/1954 class pic/clarkin-l.jpg",
           "credit": "",
           "caption": ""
         },
@@ -71,7 +82,7 @@
         "date": "",
         "text": {"headline": "Maxwell Callaghan", "text": ""},
         "media": {
-          "url": "https://sdu.upei.ca/site/sdu.upei.ca/files/KnightLabStoryMap/public/1954 class pic/Callaghan-m.jpg",
+          "url": "https://sdu.upei.ca/sites/sdu.upei.ca/files/KnightLabStoryMap/public/1954 class pic/Callaghan-m.jpg",
           "credit": "",
           "caption": ""
         },
@@ -88,7 +99,7 @@
         "date": "",
         "text": {"headline": "Lorne Murphy", "text": ""},
         "media": {
-          "url": "https://sdu.upei.ca/site/sdu.upei.ca/files/KnightLabStoryMap/public/1954 class pic/murphy-l.jpg",
+          "url": "https://sdu.upei.ca/sites/sdu.upei.ca/files/KnightLabStoryMap/public/1954 class pic/murphy-l.jpg",
           "credit": "",
           "caption": ""
         },
@@ -105,7 +116,7 @@
         "date": "",
         "text": {"headline": "Gerald Coady", "text": ""},
         "media": {
-          "url": "https://sdu.upei.ca/site/sdu.upei.ca/files/KnightLabStoryMap/public/1954 class pic/coady-g.jpg",
+          "url": "https://sdu.upei.ca/sites/sdu.upei.ca/files/KnightLabStoryMap/public/1954 class pic/coady-g.jpg",
           "credit": "",
           "caption": ""
         },
@@ -122,7 +133,7 @@
         "date": "",
         "text": {"headline": "Charles Lambert", "text": ""},
         "media": {
-          "url": "https://sdu.upei.ca/site/sdu.upei.ca/files/KnightLabStoryMap/public/1954 class pic/lambert-c.jpg",
+          "url": "https://sdu.upei.ca/sites/sdu.upei.ca/files/KnightLabStoryMap/public/1954 class pic/lambert-c.jpg",
           "credit": "",
           "caption": ""
         },
@@ -139,7 +150,7 @@
         "date": "",
         "text": {"headline": "John B. Fisher", "text": ""},
         "media": {
-          "url": "https://sdu.upei.ca/site/sdu.upei.ca/files/KnightLabStoryMap/public/1954 class pic/fisher-j.jpg",
+          "url": "https://sdu.upei.ca/sites/sdu.upei.ca/files/KnightLabStoryMap/public/1954 class pic/fisher-j.jpg",
           "credit": "",
           "caption": ""
         },
@@ -156,7 +167,7 @@
         "date": "",
         "text": {"headline": "Robert Dallaire", "text": ""},
         "media": {
-          "url": "https://sdu.upei.ca/site/sdu.upei.ca/files/KnightLabStoryMap/public/1954 class pic/dallaire-r.jpg",
+          "url": "https://sdu.upei.ca/sites/sdu.upei.ca/files/KnightLabStoryMap/public/1954 class pic/dallaire-r.jpg",
           "credit": "",
           "caption": ""
         },
@@ -173,7 +184,7 @@
         "date": "",
         "text": {"headline": "Charles Monaghan", "text": ""},
         "media": {
-          "url": "https://sdu.upei.ca/site/sdu.upei.ca/files/KnightLabStoryMap/public/1954 class pic/monaghan-m.jpg",
+          "url": "https://sdu.upei.ca/sites/sdu.upei.ca/files/KnightLabStoryMap/public/1954 class pic/monaghan-m.jpg",
           "credit": "",
           "caption": ""
         },
@@ -190,7 +201,7 @@
         "date": "",
         "text": {"headline": "Ellen Mullally", "text": ""},
         "media": {
-          "url": "https://sdu.upei.ca/site/sdu.upei.ca/files/KnightLabStoryMap/public/1954 class pic/mullally-e.jpg",
+          "url": "https://sdu.upei.ca/sites/sdu.upei.ca/files/KnightLabStoryMap/public/1954 class pic/mullally-e.jpg",
           "credit": "",
           "caption": ""
         },
@@ -207,7 +218,7 @@
         "date": "",
         "text": {"headline": "Mariedith MacDonald", "text": ""},
         "media": {
-          "url": "https://sdu.upei.ca/site/sdu.upei.ca/files/KnightLabStoryMap/public/1954 class pic/macdonald-i.jpg",
+          "url": "https://sdu.upei.ca/sites/sdu.upei.ca/files/KnightLabStoryMap/public/1954 class pic/macdonald-i.jpg",
           "credit": "",
           "caption": ""
         },
@@ -224,7 +235,7 @@
         "date": "",
         "text": {"headline": "Charles Morrison", "text": ""},
         "media": {
-          "url": "https://sdu.upei.ca/site/sdu.upei.ca/files/KnightLabStoryMap/public/1954 class pic/morrison-c.jpg",
+          "url": "https://sdu.upei.ca/sites/sdu.upei.ca/files/KnightLabStoryMap/public/1954 class pic/morrison-c.jpg",
           "credit": "",
           "caption": ""
         },
@@ -241,7 +252,7 @@
         "date": "",
         "text": {"headline": "Allan MacDonald", "text": ""},
         "media": {
-          "url": "https://sdu.upei.ca/site/sdu.upei.ca/files/KnightLabStoryMap/public/1954 class pic/macdonald-a.jpg",
+          "url": "https://sdu.upei.ca/sites/sdu.upei.ca/files/KnightLabStoryMap/public/1954 class pic/macdonald-a.jpg",
           "credit": "",
           "caption": ""
         },
@@ -258,7 +269,7 @@
         "date": "",
         "text": {"headline": "Gerald Steele", "text": ""},
         "media": {
-          "url": "https://sdu.upei.ca/site/sdu.upei.ca/files/KnightLabStoryMap/public/1954 class pic/steele-j.jpg",
+          "url": "https://sdu.upei.ca/sites/sdu.upei.ca/files/KnightLabStoryMap/public/1954 class pic/steele-j.jpg",
           "credit": "",
           "caption": ""
         },
@@ -275,7 +286,7 @@
         "date": "",
         "text": {"headline": "Francis Zakem", "text": ""},
         "media": {
-          "url": "https://sdu.upei.ca/site/sdu.upei.ca/files/KnightLabStoryMap/public/1954 class pic/zakem-f.jpg",
+          "url": "https://sdu.upei.ca/sites/sdu.upei.ca/files/KnightLabStoryMap/public/1954 class pic/zakem-f.jpg",
           "credit": "",
           "caption": ""
         },
@@ -292,7 +303,7 @@
         "date": "",
         "text": {"headline": "Gerald Arsenalt", "text": ""},
         "media": {
-          "url": "https://sdu.upei.ca/site/sdu.upei.ca/files/KnightLabStoryMap/public/1954 class pic/arsenault_g.jpg",
+          "url": "https://sdu.upei.ca/sites/sdu.upei.ca/files/KnightLabStoryMap/public/1954 class pic/arsenault_g.jpg",
           "credit": "",
           "caption": ""
         },
@@ -309,7 +320,7 @@
         "date": "",
         "text": {"headline": "Ena Murphy", "text": ""},
         "media": {
-          "url": "https://sdu.upei.ca/site/sdu.upei.ca/files/KnightLabStoryMap/public/1954 class pic/murphy-e.jpg",
+          "url": "https://sdu.upei.ca/sites/sdu.upei.ca/files/KnightLabStoryMap/public/1954 class pic/murphy-e.jpg",
           "credit": "",
           "caption": ""
         },
@@ -326,7 +337,7 @@
         "date": "",
         "text": {"headline": "Gilles Normand", "text": ""},
         "media": {
-          "url": "https://sdu.upei.ca/site/sdu.upei.ca/files/KnightLabStoryMap/public/1954 class pic/normand-G.jpg",
+          "url": "https://sdu.upei.ca/sites/sdu.upei.ca/files/KnightLabStoryMap/public/1954 class pic/normand-G.jpg",
           "credit": "",
           "caption": ""
         },
@@ -343,7 +354,7 @@
         "date": "",
         "text": {"headline": "Louis McGinn", "text": ""},
         "media": {
-          "url": "https://sdu.upei.ca/site/sdu.upei.ca/files/KnightLabStoryMap/public/1954 class pic/mcginn-l.jpg",
+          "url": "https://sdu.upei.ca/sites/sdu.upei.ca/files/KnightLabStoryMap/public/1954 class pic/mcginn-l.jpg",
           "credit": "",
           "caption": ""
         },
@@ -360,7 +371,7 @@
         "date": "",
         "text": {"headline": "Patrick Mckenna", "text": ""},
         "media": {
-          "url": "https://sdu.upei.ca/site/sdu.upei.ca/files/KnightLabStoryMap/public/1954 class pic/mckenna-p.jpg",
+          "url": "https://sdu.upei.ca/sites/sdu.upei.ca/files/KnightLabStoryMap/public/1954 class pic/mckenna-p.jpg",
           "credit": "",
           "caption": ""
         },
@@ -377,7 +388,7 @@
         "date": "",
         "text": {"headline": "Ronald McIvor", "text": ""},
         "media": {
-          "url": "https://sdu.upei.ca/site/sdu.upei.ca/files/KnightLabStoryMap/public/1954 class pic/mcivor-r.jpg",
+          "url": "https://sdu.upei.ca/sites/sdu.upei.ca/files/KnightLabStoryMap/public/1954 class pic/mcivor-r.jpg",
           "credit": "",
           "caption": ""
         },
@@ -394,7 +405,7 @@
         "date": "",
         "text": {"headline": "Leonard Shea", "text": ""},
         "media": {
-          "url": "https://sdu.upei.ca/site/sdu.upei.ca/files/KnightLabStoryMap/public/1954 class pic/shea-l.jpg",
+          "url": "https://sdu.upei.ca/sites/sdu.upei.ca/files/KnightLabStoryMap/public/1954 class pic/shea-l.jpg",
           "credit": "",
           "caption": ""
         },
@@ -411,7 +422,7 @@
         "date": "",
         "text": {"headline": "Leo McQuaid", "text": ""},
         "media": {
-          "url": "https://sdu.upei.ca/site/sdu.upei.ca/files/KnightLabStoryMap/public/1954 class pic/mcquaid-l.jpg",
+          "url": "https://sdu.upei.ca/sites/sdu.upei.ca/files/KnightLabStoryMap/public/1954 class pic/mcquaid-l.jpg",
           "credit": "",
           "caption": ""
         },
@@ -428,7 +439,7 @@
         "date": "",
         "text": {"headline": "Marc Michaud", "text": ""},
         "media": {
-          "url": "https://sdu.upei.ca/site/sdu.upei.ca/files/KnightLabStoryMap/public/1954 class pic/michard-m.jpg",
+          "url": "https://sdu.upei.ca/sites/sdu.upei.ca/files/KnightLabStoryMap/public/1954 class pic/michard-m.jpg",
           "credit": "",
           "caption": ""
         },
@@ -445,7 +456,7 @@
         "date": "",
         "text": {"headline": "Eugene Kenny", "text": ""},
         "media": {
-          "url": "https://sdu.upei.ca/site/sdu.upei.ca/files/KnightLabStoryMap/public/1954 class pic/kenny-e.jpg",
+          "url": "https://sdu.upei.ca/sites/sdu.upei.ca/files/KnightLabStoryMap/public/1954 class pic/kenny-e.jpg",
           "credit": "",
           "caption": ""
         },
@@ -462,7 +473,7 @@
         "date": "",
         "text": {"headline": "Arthur Pendergast", "text": ""},
         "media": {
-          "url": "https://sdu.upei.ca/site/sdu.upei.ca/files/KnightLabStoryMap/public/1954 class pic/pendergast-a.jpg",
+          "url": "https://sdu.upei.ca/sites/sdu.upei.ca/files/KnightLabStoryMap/public/1954 class pic/pendergast-a.jpg",
           "credit": "",
           "caption": ""
         },
@@ -479,7 +490,7 @@
         "date": "",
         "text": {"headline": "Gaston Soucy", "text": ""},
         "media": {
-          "url": "https://sdu.upei.ca/site/sdu.upei.ca/files/KnightLabStoryMap/public/1954 class pic/soucy-g.jpg",
+          "url": "https://sdu.upei.ca/sites/sdu.upei.ca/files/KnightLabStoryMap/public/1954 class pic/soucy-g.jpg",
           "credit": "",
           "caption": ""
         },
@@ -496,7 +507,7 @@
         "date": "",
         "text": {"headline": "William Whalen", "text": ""},
         "media": {
-          "url": "https://sdu.upei.ca/site/sdu.upei.ca/files/KnightLabStoryMap/public/1954 class pic/whalen-w.jpg",
+          "url": "https://sdu.upei.ca/sites/sdu.upei.ca/files/KnightLabStoryMap/public/1954 class pic/whalen-w.jpg",
           "credit": "",
           "caption": ""
         },
@@ -513,7 +524,7 @@
         "date": "",
         "text": {"headline": "James Johnston", "text": ""},
         "media": {
-          "url": "https://sdu.upei.ca/site/sdu.upei.ca/files/KnightLabStoryMap/public/1954 class pic/johnston-j.jpg",
+          "url": "https://sdu.upei.ca/sites/sdu.upei.ca/files/KnightLabStoryMap/public/1954 class pic/johnston-j.jpg",
           "credit": "",
           "caption": ""
         },
@@ -530,7 +541,7 @@
         "date": "",
         "text": {"headline": "Denys Dufresne", "text": ""},
         "media": {
-          "url": "https://sdu.upei.ca/site/sdu.upei.ca/files/KnightLabStoryMap/public/1954 class pic/dufresne-j.jpg",
+          "url": "https://sdu.upei.ca/sites/sdu.upei.ca/files/KnightLabStoryMap/public/1954 class pic/dufresne-j.jpg",
           "credit": "",
           "caption": ""
         },
@@ -547,7 +558,7 @@
         "date": "",
         "text": {"headline": "Maurice Flynn", "text": ""},
         "media": {
-          "url": "https://sdu.upei.ca/site/sdu.upei.ca/files/KnightLabStoryMap/public/1954 class pic/flynn-j.jpg",
+          "url": "https://sdu.upei.ca/sites/sdu.upei.ca/files/KnightLabStoryMap/public/1954 class pic/flynn-j.jpg",
           "credit": "",
           "caption": ""
         },
@@ -564,7 +575,7 @@
         "date": "",
         "text": {"headline": "Simeon Farmer", "text": ""},
         "media": {
-          "url": "https://sdu.upei.ca/site/sdu.upei.ca/files/KnightLabStoryMap/public/1954 class pic/farmer-j.jpg",
+          "url": "https://sdu.upei.ca/sites/sdu.upei.ca/files/KnightLabStoryMap/public/1954 class pic/farmer-j.jpg",
           "credit": "",
           "caption": ""
         },
@@ -581,7 +592,7 @@
         "date": "",
         "text": {"headline": "William MacIsaac", "text": ""},
         "media": {
-          "url": "https://sdu.upei.ca/site/sdu.upei.ca/files/KnightLabStoryMap/public/1954 class pic/mcisaac-w.jpg",
+          "url": "https://sdu.upei.ca/sites/sdu.upei.ca/files/KnightLabStoryMap/public/1954 class pic/mcisaac-w.jpg",
           "credit": "",
           "caption": ""
         },
@@ -598,7 +609,7 @@
         "date": "",
         "text": {"headline": "Jerome Quinn", "text": ""},
         "media": {
-          "url": "https://sdu.upei.ca/site/sdu.upei.ca/files/KnightLabStoryMap/public/1954 class pic/quinn-j.jpg",
+          "url": "https://sdu.upei.ca/sites/sdu.upei.ca/files/KnightLabStoryMap/public/1954 class pic/quinn-j.jpg",
           "credit": "",
           "caption": ""
         },
@@ -615,7 +626,7 @@
         "date": "",
         "text": {"headline": "Ernest Rioux", "text": ""},
         "media": {
-          "url": "https://sdu.upei.ca/site/sdu.upei.ca/files/rioux-a.jpg",
+          "url": "https://sdu.upei.ca/sites/sdu.upei.ca/files/KnightLabStoryMap/public/1954 class pic/rioux-a.jpg",
           "credit": "",
           "caption": ""
         },
@@ -628,17 +639,6 @@
         },
         "background": {"color": "#000000", "opacity": 100}
       }
-    ],
-    "map_type": "zoomify",
-    "zoomify": {
-      "path": "https://googledrive.com/host/0B38XkGDohIAaNVJiQmRERUgwaTg/",
-      "width": 10487,
-      "height": 7943,
-      "tolerance": 0.9,
-      "attribution": ""
-    },
-    "map_background_color": "#740902"
-  },
-  "font_css": "stock:rufina-sintony",
-  "height": "1200"
+    ]
+  }
 }
